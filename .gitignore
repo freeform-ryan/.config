@@ -1,7 +1,10 @@
+1Password/
 Redgate/
 configstore/
 gatsby/
-
+github-copilot/
+jgit/
+op/config
 op/op-daemon.sock
 tmux/plugins/
 yarn/
